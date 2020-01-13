@@ -1,0 +1,43 @@
+
+body {
+    background-color: rgba(0, 0, 0, 0.856);
+    color: white;
+}
+
+h1,h5,h4{
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+     width: auto; 
+     height: auto; 
+     max-width: 300px; 
+     max-height: 300px; 
+}
+    
+
+
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+p, i {
+    text-align: center;
+}
+b {
+    text-align: center;
+}
+
+li {
+    text-align: inline;
+
+}
+   a {
+       color: yellow;
+   }
